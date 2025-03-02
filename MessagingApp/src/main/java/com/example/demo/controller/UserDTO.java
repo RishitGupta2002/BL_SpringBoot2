@@ -1,6 +1,5 @@
 package com.example.demo.controller;
 
-
 public class UserDTO {
     private String firstName;
     private String lastName;
