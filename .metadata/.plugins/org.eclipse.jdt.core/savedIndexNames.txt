@@ -23,7 +23,6 @@ INDEX VERSION 1.134+C:\Users\Rishit Gupta\Documents\workspace-spring-tool-suite-
 319377448.index
 3447655033.index
 440959550.index
-878829712.index
 2874911410.index
 2228972454.index
 1865797976.index
